@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto é um **Sistema de Gestão de Solicitações de Serviços Públicos** que permite aos cidadãos registrar solicitações de serviços, como reparo de iluminação pública, coleta de lixo, e limpeza de praças, de maneira simples e eficiente. O sistema conta com uma interface intuitiva e permite acompanhar o status das solicitações. Ele foi desenvolvido utilizando a arquitetura **MVC (Model-View-Controller)**, garantindo uma separação clara entre a lógica de negócios, a interface do usuário e a manipulação de dados.
+Este projeto foi desenvolvido como um desafio técnico para uma vaga, o projeto consiste basicamente em um **Sistema de Gestão de Solicitações de Serviços Públicos** que permite aos cidadãos registrar solicitações de serviços, como reparo de iluminação pública, coleta de lixo, e limpeza de praças, de maneira simples e eficiente. O sistema conta com uma interface intuitiva e permite acompanhar o status das solicitações. Ele foi desenvolvido utilizando a arquitetura **MVC (Model-View-Controller)**, garantindo uma separação clara entre a lógica de negócios, a interface do usuário e a manipulação de dados.
 
 Além das funcionalidades principais, algumas funcionalidades opcionais foram implementadas, como a integração com o **Google Maps** para localizar e exibir o endereço das solicitações, o envio de **e-mails via SMTP do Gmail** para confirmação de solicitação, e a geração de **relatórios simples** para administração.
 
